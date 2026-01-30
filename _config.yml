@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xinyu Wang"
-  pronouns         : # example: "she/her"  
-  bio: "Postdoctoral Researcher, School of Mathematical Sciences, Peking University"
+  # pronouns         : # example: "she/her"  
+  bio: "Postdoctoral Researcher"
   location: "Beijing, China"
-  employer         : "Peking University"
-  uri              : # URL
+  employer: "School of Mathematical Sciences, Peking University"
+  # uri              : # URL
   email            : "xywang@pku.edu.cn" 
 
   # Academic websites
