@@ -20,9 +20,4 @@ Wang, X., Wang, R., Peng, Q., Zhou, P., Li, T.
 **WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport**.  
 *Submitted.*
 
----
 
-## Selected Ongoing Projects
-
-- Neural network–based parameter inference for multi-stage stochastic gene expression models.
-- Multistability and oscillations in gene regulatory networks driven by network topology and cooperativity.
