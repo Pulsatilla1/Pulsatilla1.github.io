@@ -1,36 +1,33 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+layout: single
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Peer-reviewed Publications
 
-{% include base_path %}
+**Wang, X.**, Li, Y., Jia, C.  
+**Poisson representation: a bridge between discrete and continuous models of stochastic gene regulatory networks**.  
+*Journal of the Royal Society Interface*, 20(208): 20230467, 2023.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+---
 
+## Preprints / Submitted Manuscripts
 
+Wang, X., Wang, R., Peng, Q., Zhou, P., Li, T.  
+**WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport**.  
+*Submitted.*
 
+Ling, Y., **Wang, X.**, Peng, Q., Zhou, P.  
+**StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching**.  
+*Submitted.*
+
+---
+
+## Manuscripts in Preparation
+
+> Selected ongoing projects (details available upon request).
+
+- Neural network–based parameter inference for multi-stage stochastic gene expression models.
+- Multistability and oscillations in gene regulatory networks driven by topology and cooperativity.
