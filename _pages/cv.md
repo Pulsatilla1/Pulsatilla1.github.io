@@ -6,14 +6,14 @@ layout: single
 ---
 
 ## Education
+-B.S. in Information and Computing Science  
+College of Science, China University of Petroleum (East China), China, 2020  
 
-**Ph.D. (Direct PhD Program) in Applied Mathematics**  
-Beijing Computational Science Research Center,  
-China Academy of Engineering Physics, China, 2025  
+-Ph.D. (Direct PhD Program) in Applied Mathematics
+Beijing Computational Science Research Center, China Academy of Engineering Physics, China, 2025  
 Supervisor: Professor Chen Jia  
 
-**B.Sc. in Information and Computing Science**  
-College of Science, China University of Petroleum (East China), China, 2020  
+
 
 ---
 
