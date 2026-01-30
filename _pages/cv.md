@@ -8,10 +8,10 @@ layout: single
 ## Education
 
 - **B.S. in Information and Computing Science**, 2020  
-  College of Science, China University of Petroleum (East China), China
+  College of Science, China University of Petroleum (East China)
 
 - **Ph.D. in Applied Mathematics**, 2025  
-  Beijing Computational Science Research Center, China Academy of Engineering Physics, China  
+  Beijing Computational Science Research Center, China Academy of Engineering Physics  
   Supervisor: Professor Chen Jia  
   Thesis: *Numerical Methods for Stochastic Gene Regulatory Networks*
 
