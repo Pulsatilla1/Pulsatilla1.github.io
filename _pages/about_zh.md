@@ -1,8 +1,10 @@
 ---
 title: "关于我"
 permalink: /zh/
+layout: single
 author_profile: true
 ---
+
 
 我目前从事数学建模、机器学习与定量生命科学交叉方向的研究。
 
