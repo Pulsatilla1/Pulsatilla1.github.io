@@ -57,6 +57,9 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
 
 # Make sure Jekyll publishes files under _pages/
 include:
