@@ -1,64 +1,73 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+layout: single
 ---
 
-{% include base_path %}
+## Research & Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Postdoctoral Researcher**, School of Mathematical Sciences, Peking University  
+*Jul 2025 – Present*  
+- Research areas: AI for Biology, generative modeling  
+- Host collaborator: Tiejun Li
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Ph.D. (Direct PhD Program)**, China Academy of Engineering Physics  
+*Sep 2020 – Jun 2025*  
+- Major: Applied Mathematics (Stochastic processes and applications)  
+- Advisor: Chen Jia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**B.Sc.**, College of Science, China University of Petroleum (East China)  
+*Sep 2016 – Jun 2020*  
+- Major: Information and Computing Science
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Interests
+
+- Stochastic gene regulatory networks  
+- Biochemical reaction systems  
+- Stochastic processes and probabilistic modeling  
+- Generative models and optimal transport  
+- Single-cell dynamics and parameter inference  
+
+---
+
+## Publications
+
+- **Wang X**, Li Y, Jia C. *Poisson representation: a bridge between discrete and continuous models of stochastic gene regulatory networks*.  
+  **Journal of the Royal Society Interface**, 20(208): 20230467, 2023.
+
+- Wang X, Wang R, Peng Q, Zhou P, Li T. *WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport*.  
+  Submitted.
+
+- Ling Y, **Wang X**, Peng Q, Zhou P. *StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching*.  
+  Submitted.
+
+- Neural network-based parameter inference for three-stage autoregulated stochastic gene expression models.  
+  In preparation.
+
+- Multistability and oscillations in gene regulatory networks are determined by both network topology and cooperativity.  
+  In preparation.
+
+---
+
+## Conferences & Talks
+
+- **The 15th International Conference on Computational Systems Biology**,  
+  Contributed talk, Aug 21–24, 2024, Kaifeng, China.
+
+---
+
+## Honors & Awards
+
+- National Encouragement Scholarship (2017–2018)  
+- Bank of China Scholarship (2016–2017, 2018–2019)  
+- First-class Graduate Scholarship, CAEP (2020–2024)
+
+---
+
+## Skills
+
+- Programming: Python, Julia, MATLAB  
+- Language: English (CET-6)
