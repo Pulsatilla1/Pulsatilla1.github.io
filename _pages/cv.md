@@ -50,9 +50,7 @@ Wang, X., Wang, R., Peng, Q., Zhou, P., Li, T.
 *WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport*.  
 Submitted.
 
-Ling, Y., **Wang, X.**, Peng, Q., Zhou, P.  
-*StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching*.  
-Submitted.
+
 
 ---
 
