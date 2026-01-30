@@ -22,11 +22,11 @@ layout: single
 
 ## Research Positions & Experience
 
-**Postdoctoral Researcher**  
-School of Mathematical Sciences, Peking University, China  
-Jul 2025 – Present  
-Research areas: AI for Biology, generative modeling  
-Supervisor: Professor Tiejun Li  
+- **Postdoctoral Researcher**  
+  School of Mathematical Sciences, Peking University, China  
+  Jul 2025 – Present  
+  Research areas: AI for Biology, generative modeling  
+  Supervisor: Professor Tiejun Li  
 
 ---
 
