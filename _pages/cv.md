@@ -6,12 +6,15 @@ layout: single
 ---
 
 ## Education
--B.S. in Information and Computing Science  
-College of Science, China University of Petroleum (East China), China, 2020  
 
--Ph.D. (Direct PhD Program) in Applied Mathematics
-Beijing Computational Science Research Center, China Academy of Engineering Physics, China, 2025  
-Supervisor: Professor Chen Jia  
+- **B.S. in Information and Computing Science**  
+  College of Science, China University of Petroleum (East China), China, 2020
+
+- **Ph.D. in Applied Mathematics**  
+  Beijing Computational Science Research Center, China Academy of Engineering Physics, China, 2025  
+  Supervisor: Professor Chen Jia  
+  Thesis: *Numerical Methods for Stochastic Gene Regulatory Networks*
+
 
 
 
@@ -23,13 +26,7 @@ Supervisor: Professor Chen Jia
 School of Mathematical Sciences, Peking University, China  
 Jul 2025 – Present  
 Research areas: AI for Biology, generative modeling  
-Host: Professor Tiejun Li  
-
-**Graduate Researcher (Direct PhD Program)**  
-Beijing Computational Science Research Center,  
-China Academy of Engineering Physics, China  
-Sep 2020 – Jun 2025  
-Research focus: stochastic processes and mathematical modeling of biological systems  
+Supervisor: Professor Tiejun Li  
 
 ---
 
