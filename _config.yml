@@ -1,43 +1,4 @@
-# # ===============================
-# # Site settings
-# # ===============================
 
-# title: "Xinyu Wang"
-# name: "Xinyu Wang"
-# description: "Academic Homepage"
-
-# url: "https://你的用户名.github.io"
-# baseurl: ""
-
-# # ===============================
-# # Author information
-# # ===============================
-
-# author:
-#   name: "Xinyu Wang"
-#   avatar: "profile.png"   # 🔴 稍后放头像到 images/profile.png
-#   bio: >
-#     Postdoctoral researcher working on dynamic generative modeling,
-#     unbalanced optimal transport, and single-cell/spatial transcriptomics.
-#   location: "Taiwan"
-#   email: "xywang@math.pku.edu.cn"
-
-# # ===============================
-# # Social links (left sidebar)
-# # ===============================
-
-# links:
-#   - label: "Email"
-#     icon: "fas fa-envelope"
-#     url: "mailto: xywang@math.pku.edu.cn"
-
-#   # - label: "Google Scholar"
-#   #   icon: "ai ai-google-scholar"
-#   #   url: "🔴你的Google Scholar链接"
-
-#   - label: "GitHub"
-#     icon: "fab fa-github"
-#     url: "https://github.com/Pulsatilla1"
 
 # # ===============================
 # # Theme & build
