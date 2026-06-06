@@ -58,7 +58,6 @@ Sui Wang<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Qiangwei Peng, Tiejun Li<s
 *STITCH: Spatial Transcriptomics Imputation via Flow Matching with Internal Learning*.  
 Submitted.
 
-
 ---
 
 ## Talks
