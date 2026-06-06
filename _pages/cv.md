@@ -42,14 +42,21 @@ layout: single
 
 ## Publications
 
-**Wang, X.**, Li, Y., Jia, C.  
+**Xinyu Wang**<sup>†</sup>, Youming Li<sup>†</sup>, Chen Jia.  
 *Poisson representation: a bridge between discrete and continuous models of stochastic gene regulatory networks*.  
 **Journal of the Royal Society Interface**, 20(208): 20230467, 2023.
 
-Wang, X., Wang, R., Peng, Q., Zhou, P., Li, T.  
+**Xinyu Wang**<sup>†</sup>, Ruoyu Wang<sup>†</sup>, Qiangwei Peng<sup>†</sup>, Peijie Zhou<sup>‡</sup>, Tiejun Li<sup>‡</sup>.  
 *WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport*.  
+**Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)**, 2026.
+
+Yue Ling<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Qiangwei Peng<sup>‡</sup>, Peijie Zhou<sup>‡</sup>.  
+*StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching*.  
 Submitted.
 
+Sui Wang<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Qiangwei Peng, Tiejun Li<sup>‡</sup>.  
+*STITCH: Spatial Transcriptomics Imputation via Flow Matching with Internal Learning*.  
+Submitted.
 
 
 ---
