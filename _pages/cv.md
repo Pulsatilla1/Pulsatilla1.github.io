@@ -42,7 +42,7 @@ layout: single
 
 ## Publications
 
-**Xinyu Wang**<sup>†</sup>, Youming Li<sup>†</sup>, Chen Jia.  
+**Xinyu Wang**<sup>†</sup>, Youming Li<sup>†</sup>, Chen Jia‡</sup>.  
 *Poisson representation: a bridge between discrete and continuous models of stochastic gene regulatory networks*.  
 **Journal of the Royal Society Interface**, 20(208): 20230467, 2023.
 
