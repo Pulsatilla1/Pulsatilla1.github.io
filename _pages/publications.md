@@ -28,7 +28,8 @@ Submitted.
 
 Qiangwei Peng<sup>†</sup>, Yuchuan Wang<sup>†</sup>, Jianzhe Li<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Yao Xiao<sup>†</sup>, Peijie Zhou<sup>‡</sup>.  
 *Unbalanced Perturbation Dynamics For Cell Fate Design*.  
-Preprint. doi: [10.64898/2026.06.30.735555](https://doi.org/10.64898/2026.06.30.735555)
+Submitted.
+
 
 <br>
 
