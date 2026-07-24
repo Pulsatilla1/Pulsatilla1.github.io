@@ -18,7 +18,7 @@ classes: wide
 
 ## Preprints / Submitted Manuscripts
 
-Yue Ling<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Qiangwei Peng<sup>‡</sup>, Peijie Zhou<sup>‡</sup>.  
+Yue Ling<sup>†</sup>, **Xinyu Wang**<sup>†</sup><sup>‡</sup>., Qiangwei Peng<sup>‡</sup>, Peijie Zhou<sup>‡</sup>.  
 *StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching*.  
 Submitted.
 
