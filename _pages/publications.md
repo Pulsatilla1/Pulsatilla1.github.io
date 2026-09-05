@@ -39,6 +39,15 @@ Shimiao Wang<sup>†</sup>, Hong Qi<sup>†</sup>, **Xinyu Wang**, Xiaoliang Sun
 **Submitted.**
 
 ## Preparation
+WFR-DFM
+
+ES-FM
+
+Schordinger Bridge
+
+NMB_CME
+
+stVCR2.0
 
 <br>
 
