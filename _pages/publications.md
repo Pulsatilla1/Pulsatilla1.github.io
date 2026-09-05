@@ -18,7 +18,7 @@ classes: wide
 
 ## Preprints / Submitted Manuscripts
 
-Yue Ling<sup>†</sup>, **Xinyu Wang**<sup>†</sup><sup>‡</sup>., Qiangwei Peng<sup>‡</sup>, Peijie Zhou<sup>‡</sup>.  
+Yue Ling<sup>†</sup>, Qiangwei Peng<sup>‡</sup>, **Xinyu Wang**<sup>†</sup><sup>‡</sup>, Peijie Zhou<sup>‡</sup>.  
 *StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching*.  
 Submitted.
 
@@ -30,6 +30,14 @@ Qiangwei Peng<sup>†</sup>, Yuchuan Wang<sup>†</sup>, Jianzhe Li<sup>†</sup
 *Unbalanced Perturbation Dynamics For Cell Fate Design*.  
 Submitted.
 
+**Xinyu Wang**, Tiejun Li<sup>∗</sup>, Peijie Zhou<sup>∗</sup>.
+*Towards the Dynamical AI Virtual Cell*.
+Submitted.
+
+Shimiao Wang<sup>†</sup>, Hong Qi<sup>†</sup>, **Xinyu Wang**, Xiaoliang Sunney Xie<sup>∗</sup>, Chen Jia<sup>∗</sup>.
+*Cooperativity and Network Topology Jointly Determine the Dynamical Robustness of Biological Regulatory Networks*.
+
+## Preparation
 
 <br>
 
