@@ -18,24 +18,24 @@ classes: wide
 
 ## Preprints / Submitted Manuscripts
 
-Yue Ling<sup>†</sup>, Qiangwei Peng<sup>‡</sup>, **Xinyu Wang**<sup>†</sup><sup>‡</sup>, Peijie Zhou<sup>‡</sup>.  
-*StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching*.  
+Yue Ling<sup>†</sup>, Qiangwei Peng<sup>‡</sup>, **Xinyu Wang**<sup>†</sup><sup>‡</sup>, Peijie Zhou<sup>‡</sup>.<br>
+*StateFlow: Learning Cell-state Transition Dynamics Using Optimal Transport-informed and Time-aware Discrete Flow Matching*.<br>
 **Submitted.**
 
-Sui Wang<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Qiangwei Peng, Tiejun Li<sup>‡</sup>.  
-*STITCH: Spatial Transcriptomics Imputation via Flow Matching with Internal Learning*.  
+Sui Wang<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Qiangwei Peng, Tiejun Li<sup>‡</sup>.<br>
+*STITCH: Spatial Transcriptomics Imputation via Flow Matching with Internal Learning*.<br>
 **Submitted.**
 
-Qiangwei Peng<sup>†</sup>, Yuchuan Wang<sup>†</sup>, Jianzhe Li<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Yao Xiao<sup>†</sup>, Peijie Zhou<sup>‡</sup>.  
-*Unbalanced Perturbation Dynamics For Cell Fate Design*.  
+Qiangwei Peng<sup>†</sup>, Yuchuan Wang<sup>†</sup>, Jianzhe Li<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Yao Xiao<sup>†</sup>, Peijie Zhou<sup>‡</sup>.<br>
+*Unbalanced Perturbation Dynamics For Cell Fate Design*.<br>
 **Submitted.**
 
-**Xinyu Wang**, Tiejun Li<sup>∗</sup>, Peijie Zhou<sup>∗</sup>.
-*Towards the Dynamical AI Virtual Cell*.
+**Xinyu Wang**, Tiejun Li<sup>∗</sup>, Peijie Zhou<sup>∗</sup>.<br>
+*Towards the Dynamical AI Virtual Cell*.<br>
 **Submitted.**
 
-Shimiao Wang<sup>†</sup>, Hong Qi<sup>†</sup>, **Xinyu Wang**, Xiaoliang Sunney Xie<sup>∗</sup>, Chen Jia<sup>∗</sup>.
-*Cooperativity and Network Topology Jointly Determine the Dynamical Robustness of Biological Regulatory Networks*.
+Shimiao Wang<sup>†</sup>, Hong Qi<sup>†</sup>, **Xinyu Wang**, Xiaoliang Sunney Xie<sup>∗</sup>, Chen Jia<sup>∗</sup>.<br>
+*Cooperativity and Network Topology Jointly Determine the Dynamical Robustness of Biological Regulatory Networks*.<br>
 **Submitted.**
 
 ## Preparation
