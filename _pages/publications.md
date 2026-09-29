@@ -38,13 +38,18 @@ Shimiao Wang<sup>†</sup>, Hong Qi<sup>†</sup>, **Xinyu Wang**, Xiaoliang Sun
 *Cooperativity and Network Topology Jointly Determine the Dynamical Robustness of Biological Regulatory Networks*.<br>
 **Submitted.**
 
+Ruoyu Wang<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Tiejun Li<sup>‡</sup>.<br>
+*ESFM: Reconstructing Unbalanced Dynamics via Reduction and Extended-Space Flow Matching*.<br>
+**Submitted.**
+
+Junda Ying<sup>†</sup>, **Xinyu Wang**<sup>†</sup>, Peijie Zhou<sup>‡</sup>, Lei Zhang<sup>‡</sup>.<br>
+*Discrete Wasserstein-Fisher-Rao Distance*.<br>
+**Submitted.**
+
+
 ## Preparation
 
 <!--
-WFR-DFM
-
-ES-FM
-
 Schordinger Bridge
 
 NMB_CME
